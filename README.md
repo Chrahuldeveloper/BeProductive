@@ -1,6 +1,6 @@
 # BeProductive
 
-BeProductive is a webapp with some good lofi chill music ,todo list and a pomodoro Tim
+BeProductive is a webapp with some good lofi chill music ,todo list and a pomodoro Timer
 
 ## Contributing
 
